@@ -17,7 +17,6 @@ body {
 .main_Heading {
   font-size: 2.5rem;
   font-weight: 800;
-  width: 100%;
   padding-top: 2rem;
   color: #282828;
 }
@@ -33,7 +32,6 @@ body {
 
 .paraLine {
   color: #282828;
-  margin-top: 2rem;
   font-size: 1.2rem;
 }
 
@@ -47,7 +45,6 @@ body {
   color: #888888;
   border: 0.2rem solid #000000;
   margin-top: 1rem;
-  margin-bottom: 2rem;
 }
 
 .registerButton {
@@ -58,8 +55,6 @@ body {
   border-radius: 5px;
   color: #ffffff;
   background-color: #282828;
-  margin-top: 1rem;
-  margin-bottom: 2rem;
 }
 
 footer {
@@ -69,7 +64,6 @@ footer {
   padding-top: 2rem;
   line-height: 3rem;
   background: #282828;
-  height: 50%;
   color: #ffffff;
 }
 
