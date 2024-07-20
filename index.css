@@ -1,27 +1,24 @@
 body {
   background: #ffcd9e;
   font-family: "Inter", sans-serif;
-  margin: 0%;
+  margin: 0;
 }
 
-.main_Content {
+.main-content {
   display: flex;
-  justify-content: space-around;
-}
-
-.main_Content {
+  justify-content: space-between;
   padding-left: 6rem;
   padding-top: 3rem;
 }
 
-.main_Heading {
+.main-heading {
   font-size: 2.5rem;
   font-weight: 800;
   padding-top: 2rem;
   color: #282828;
 }
 
-.subHeading {
+.sub-heading {
   font-size: 1.5rem;
   font-weight: 500;
   width: 80%;
@@ -30,7 +27,7 @@ body {
   margin-bottom: 2rem;
 }
 
-.paraLine {
+.para-line {
   color: #282828;
   font-size: 1.2rem;
 }
@@ -47,7 +44,7 @@ body {
   margin-top: 1rem;
 }
 
-.registerButton {
+.register-button {
   font-size: 1.2rem;
   height: 3rem;
   width: 10rem;
@@ -59,24 +56,27 @@ body {
 
 footer {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   font-size: 1.2rem;
   padding-top: 2rem;
   line-height: 3rem;
   background: #282828;
   color: #ffffff;
+  padding-left: 6rem;
+  padding-right: 6rem;
 }
 
 .details {
   list-style-type: none;
+  padding-left: 0%;
 }
 
 .links {
   list-style-type: none;
   text-align: right;
+  padding-left: 0%;
 }
 
-.emailId {
+.email-Id {
   padding-top: 2.9rem;
 }
-
